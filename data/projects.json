@@ -1,0 +1,30 @@
+[
+  {
+    "type": "software",
+    "name": "Systém pro logopedické ambulance",
+    "description": "Komplexní databázová aplikace pro síťový provoz logopedických ambulancí. Zahrnovala agendu ambulancí, vykazování zdravotním pojišťovnám, statistiky a pokročilé kontroly dat.",
+    "role": "Vývoj aplikace",
+    "technologies": ["Visual Basic 6.0"],
+    "status": "Komerční projekt · software prodán"
+  },
+  {
+    "type": "software",
+    "name": "MediaForge",
+    "description": "Open-source projekt MediaForge s odkazem na repozitář na GitHubu.",
+    "repository": "https://github.com/VildaFusek/MediaForge"
+  },
+  {
+    "type": "website",
+    "name": "4fin & Optim Credit",
+    "description": "Webová prezentace finančního poradenství, úvěrových řešení a realitních služeb. Představení nabídky, týmu a možností kontaktu.",
+    "role": "Tvorba webových stránek",
+    "demo": "https://4finoptimcredit.cz/"
+  },
+  {
+    "type": "website",
+    "name": "Taxi Dandy",
+    "description": "Web taxislužby s představením služeb, ceníkem, autoparkem, kontakty a formulářem pro objednání jízdy.",
+    "role": "Tvorba webových stránek",
+    "demo": "https://www.taxidandy.cz/"
+  }
+]
