@@ -10,7 +10,7 @@
   {
     "type": "software",
     "name": "MediaForge",
-    "description": "Open-source projekt MediaForge s odkazem na repozitář na GitHubu.",
+    "description": "Open-source projekt MediaForge je moderní aplikace pro Windows, která spojuje přehlednou správu souborů s převodem videa. Nabízí předvolby pro různá zařízení i vlastní nastavení kvality, rozlišení a zvuku. Díky frontě úloh a podpoře hardwarové akcelerace usnadňuje zpracování více videí. To vše v českém rozhraní a bez nutnosti instalace.",
     "repository": "https://github.com/VildaFusek/MediaForge"
   },
   {
