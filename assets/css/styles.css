@@ -95,7 +95,7 @@ h3 { margin: 0 0 var(--space-2); font-size: 1.25rem; font-weight: 600; }
 .project-meta { font-size: .85rem; }
 .project-links { display: flex; flex-wrap: wrap; gap: var(--space-3); }
 .about { display: grid; gap: var(--space-4); }
-.about-photo { display: block; width: min(100%, 320px); height: auto; margin-top: var(--space-4); border: 1px solid var(--border); border-radius: var(--radius); }
+.about-photo { display: block; width: min(100%, 240px); height: auto; margin-top: var(--space-4); border: 1px solid var(--border); border-radius: calc(var(--radius) * 2); }
 .about-copy p { margin: 0 0 var(--space-3); color: var(--muted); }
 .about-copy p:first-child { color: var(--text); font-size: 1.15rem; }
 .contact p:not(.eyebrow) { margin-block: var(--space-3) var(--space-4); color: var(--muted); }
