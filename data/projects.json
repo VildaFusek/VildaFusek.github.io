@@ -12,6 +12,12 @@
     "name": "MediaForge",
     "description": "Open-source projekt MediaForge je moderní aplikace pro Windows, která spojuje přehlednou správu souborů s převodem videa. Nabízí předvolby pro různá zařízení i vlastní nastavení kvality, rozlišení a zvuku. Díky frontě úloh a podpoře hardwarové akcelerace usnadňuje zpracování více videí. To vše v českém rozhraní a bez nutnosti instalace.",
     "repository": "https://github.com/VildaFusek/MediaForge"
+  },  
+  {
+    "type": "software",
+    "name": "SmartGallery",
+    "description": "SmartGallery je lokální galerie pro fotografie a videa. Umožňuje procházet knihovnu na časové ose, vyhledávat, najít přesné obrazové duplicity a vytvářet AI popisky přímo na počítači. Při importu kopíruje soubory do spravované knihovny a originály nemění.",
+    "repository": "https://github.com/VildaFusek/SmartGallery"
   },
   {
     "type": "website",
